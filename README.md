@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on any Data Science/Machine Learning Projects/gigs
 - 📫 How to reach me chimaobinice@gmail.com or +2347086181776
 
-#### Basic Projects I've done
+#### Capstone projects
 * https://share.streamlit.io/anochima/diabetes-predictor
 * https://share.streamlit.io/anochima/crypto-price-predictor
 <!---
