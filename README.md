@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Anosike Chimaobi Nice
-- 👀 I’m interested in Data Science, Machine Learning and hanging out with real people :)
+- 👀 I’m interested in Data Science, Machine Learning and building the next big thing in AI
 - 🌱 I’m currently learning Machine Learning (Computer Vision)
 - 💞️ I’m looking to collaborate on any Data Science/Machine Learning Projects/gigs
 - 📫 How to reach me chimaobinice@gmail.com or +2347086181776
