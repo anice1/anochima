@@ -1,6 +1,6 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Ac Nice!
 
-![Twitter Follow](https://img.shields.io/twitter/follow/AcNice_?style=social) [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/ac-nice-81a367147/)
+![Twitter Follow](https://img.shields.io/twitter/follow/AcNice_?style=social) [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/ac-nice-81a367147/)[<img align="left" alt="facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/chimaobi.nice/)
 
 A highly focused coder, Junior Ml Engineer and Web Devloper.
 
