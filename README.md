@@ -19,9 +19,9 @@ A highly focused coder, Junior Ml Engineer and Web Devloper.
 
 ## &#x1f4c8; My GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anochima&hide=python,php,laravel,blade,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anochima&hide=python,php,laravel,blade,html,css&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Ac Nice's GitHub stats](https://github-readme-stats.vercel.app/api?username=anochima&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Ac Nice's GitHub stats](https://github-readme-stats.vercel.app/api?username=anochima&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
 
 #### Capstone projects
