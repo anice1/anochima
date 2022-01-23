@@ -15,6 +15,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [What Evaluation Metrics Should I use?](https://dev.to/acnice/what-evaluation-metrics-should-i-use-fgd)
 - [Let&#39;s Save A Life with AI 🤖](https://dev.to/acnice/lets-save-a-life-with-ai-4m6g)
 - [Teach me the RANSAC Algorithm like I’m 5](https://medium.com/mlearning-ai/teach-me-the-ransac-algorithm-like-im-5-d3b1dd6d67a8?source=rss-da7476345aef------2)
 - [Teach me RANSAC Algorithm like I&#39;m 5](https://dev.to/acnice/teach-me-ransac-algorithm-like-im-5-22l5)
