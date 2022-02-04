@@ -5,6 +5,8 @@
 
 - 🔭 I’m currently working on **OCR and text mapping for Invoice processing**
 
+- 💬 Ask me about Python, Machine Learning, Deep Learning (Computer Vision)
+
 - 🌱 I’m currently learning **Computer Vision, Deep Learning with tensorflow**
 
 - 👯 I’m looking to collaborate on any **Data Science/Machine Learning Projects/gigs**
@@ -16,7 +18,8 @@
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 - [What Evaluation Metrics Should I use?](https://dev.to/acnice/what-evaluation-metrics-should-i-use-fgd)
-- [Let&#39;s Save A Life with AI 🤖](https://dev.to/acnice/lets-save-a-life-with-ai-4m6g)
+- [Let&#39;s Save A Life with AI 🤖](https://dev.to/acnice/sales-trend-analysis-with-pandas-1bcm)
+- [Sales Trend Analysis With Pandas 📈](https://dev.to/acnice/lets-save-a-life-with-ai-4m6g)
 - [Teach me RANSAC Algorithm like I&#39;m 5](https://dev.to/acnice/teach-me-ransac-algorithm-like-im-5-22l5)
 - [Simple Face Classification Problem using Python](https://dev.to/acnice/simple-face-classification-problem-using-python-482p)
 <!-- BLOG-POST-LIST:END -->
