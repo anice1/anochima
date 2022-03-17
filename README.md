@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anochima" alt="anochima" /></a> </p>
 
-- 🔭 I’m currently working on **OCR and text mapping for Invoice processing**
+- 🔭 I’m currently working on **Route Optimization for Delivery Trucks using Genetic Algorithms**
 
-- 💬 Ask me about Python, Machine Learning, Deep Learning (Computer Vision)
+- 💬 Ask me about Python, Machine Learning, Deep Learning
 
 - 🌱 I’m currently learning **Computer Vision, Deep Learning with tensorflow**
 
