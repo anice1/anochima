@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anochima" alt="anochima" /></a> </p>
 
-- 🔭 I’m currently working on two projects: 
+- 🔭 I’m currently working on the following projects: 
 
       - Route Optimization for Delivery Trucks using Genetic Algorithms
       - Water Leakage Detection using Genetic Algorithms
