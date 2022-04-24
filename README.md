@@ -7,7 +7,7 @@
 
       - Route Optimization for Delivery Trucks using Genetic Algorithms
       - Water Leakage Detection using Genetic Algorithms
-      - Image Classification and Validation for Ecommerce Platforms
+      - Product Categorization and Validation for Ecommerce Platforms
 
 - 💬 Ask me about Python, Machine Learning, Deep Learning
 
