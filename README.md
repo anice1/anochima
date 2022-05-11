@@ -15,7 +15,7 @@
 
 - 👯 I’m looking to collaborate on any **Data Science/Machine Learning Projects/gigs**
 
-- 🤝 I’m looking for help with **Mentors and Coaches**
+<!-- - 🤝 I’m looking for help with **Mentors and Coaches** -->
 
 - 📫 How to reach me **chimaobinice@gmail.com**
 
