@@ -21,12 +21,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [How to create LinkedIn Job API using Python](https://dev.to/acnice/how-to-create-linkedin-job-api-using-python-1ko7)
+- [Sales Trend Analysis With Pandas](https://dev.to/acnice/sales-trend-analysis-with-pandas-1bcm)
 - [What Evaluation Metrics Should I use?](https://dev.to/acnice/what-evaluation-metrics-should-i-use-fgd)
-- [Let&#39;s Save A Life with AI 🤖](https://dev.to/acnice/sales-trend-analysis-with-pandas-1bcm)
-- [Sales Trend Analysis With Pandas 📈](https://dev.to/acnice/lets-save-a-life-with-ai-4m6g)
+- [Let&#39;s Save A Life with AI 🤖](https://dev.to/acnice/lets-save-a-life-with-ai-4m6g)
 - [Teach me RANSAC Algorithm like I&#39;m 5](https://dev.to/acnice/teach-me-ransac-algorithm-like-im-5-22l5)
-- [Simple Face Classification Problem using Python](https://dev.to/acnice/simple-face-classification-problem-using-python-482p)
-- [How To Create LinkedIn Job API Using Python](https://dev.to/acnice/how-to-create-linkedin-job-api-using-python-1ko7)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
