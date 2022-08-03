@@ -26,6 +26,7 @@
 - [Sales Trend Analysis With Pandas 📈](https://dev.to/acnice/lets-save-a-life-with-ai-4m6g)
 - [Teach me RANSAC Algorithm like I&#39;m 5](https://dev.to/acnice/teach-me-ransac-algorithm-like-im-5-22l5)
 - [Simple Face Classification Problem using Python](https://dev.to/acnice/simple-face-classification-problem-using-python-482p)
+- [How To Create LinkedIn Job API Using Python](https://dev.to/acnice/how-to-create-linkedin-job-api-using-python-1ko7)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
@@ -44,6 +45,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anochima&show_icons=true&locale=en&layout=compact" alt="anochima" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anochima&show_icons=true&locale=en" alt="anochima" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anochima&" alt="anochima" /></p> -->
 
